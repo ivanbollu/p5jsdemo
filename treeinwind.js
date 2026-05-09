@@ -1,4 +1,4 @@
-JS code
+
         function setup() {
           createCanvas(700, 450);
           noStroke();
